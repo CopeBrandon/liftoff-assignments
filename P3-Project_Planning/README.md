@@ -8,12 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+I wasn't the one to create these wireframes, it was Raven, but we all agreed that these were ideal.
+
+![This is supposed to be the login wireframe image.](./login.png)
+![This is supposed to be a habit tracking page.](./history.png)
+![This is supposed to be a habit history page.](./history.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Here is the **[Trello board](https://trello.com/b/uH9NEjBx/liftoff)**.
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+We split the project into two different repos until we can tie them together later. 
+
+**[Back-end](https://github.com/Jul-2022-LC-LiftOff/HabitYouHeard)**
+
+**[Front-end](https://github.com/Jul-2022-LC-LiftOff/Habit-You-Heard-Frontend)**
